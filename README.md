@@ -11,7 +11,7 @@ A data analytics portfolio project analyzing 55,000+ patient records to identify
 ```
 Healthcare_BA_Project/
 ├── Results_SQL_Questions/       # .txt files with query results
-├── Healthcare Analytics Project Documentation.pdf  # Full project walkthrough
+├── Healthcare Analytics Project Documentation.pdf  # Full project walkthrough, includes all SQL queries
 ├── Healthcare_Dashboard.pbix    # Power BI dashboard file
 ├── Healthcare_Dashboard.pdf     # Dashboard screenshot export
 └── healthcare_dataset.csv       # Source data
