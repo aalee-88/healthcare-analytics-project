@@ -41,7 +41,6 @@ Healthcare_BA_Project/
 - Billing is nearly uniform across all conditions (~$25,234–$25,784), suggesting standardized pricing in the dataset — in real-world data, conditions like Cancer would typically incur significantly higher costs.
 - Obesity generates the highest average billing despite ranking 5th in patient volume, indicating a disproportionate cost burden relative to its prevalence.
 - Admission types and test results each split almost perfectly into thirds, a distribution pattern uncommon in real hospital data and consistent with synthetic     dataset generation.
-- Negative minimum billing values were identified across all insurance providers, flagging a data quality issue that would require further investigation in a       production environment.
 
 ## Data Source
 [Healthcare Dataset by Prasad Patil](https://www.kaggle.com/datasets/prasad22/healthcare-dataset) — Kaggle
